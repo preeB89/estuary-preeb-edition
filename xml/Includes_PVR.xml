@@ -47,7 +47,7 @@
 					<right>5</right>
 					<top>5</top>
 					<texture>$INFO[ListItem.ActualIcon]</texture>
-					<bordertexture colordiffuse="border_alpha">colors/black.png</bordertexture>
+					    <bordertexture colordiffuse="button_focus">colors/white.png</bordertexture>
 					<bordersize>2</bordersize>
 					<aspectratio>keep</aspectratio>
 				</control>
