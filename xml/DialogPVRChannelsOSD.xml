@@ -101,7 +101,7 @@
 							<top>55</top>
 							<width>50</width>
 							<height>12</height>
-							<colordiffuse>88FFFFFF</colordiffuse>
+							<!--<colordiffuse>88FFFFFF</colordiffuse>-->
 							<visible>ListItem.HasEpg + !ListItem.IsRecording</visible>
 							<info>ListItem.Progress</info>
 						</control>
