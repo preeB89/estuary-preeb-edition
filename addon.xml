@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <addon id="skin.estuary-preeb" version="0.2" name="Estuary-preeB89" provider-name="M.Priban">
 	<requires>
 		<import addon="xbmc.gui" version="5.13.0"/>

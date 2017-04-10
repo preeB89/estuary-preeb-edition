@@ -989,7 +989,7 @@
 					<orientation>horizontal</orientation>
 					<itemgap>0</itemgap>
 					<left>-8</left>
-					<width>480</width>
+					<width>280</width>      <!--<width>480</width>-->
 					<height>110</height>
 					<top>100</top>
 					<onup>SetFocus(9000,99,absolute)</onup>
@@ -1065,7 +1065,7 @@
 					<aspectratio>keep</aspectratio>
 					<width>56</width>
 					<height>56</height>
-					<texture colordiffuse="button_focus">icons/logo.png</texture>
+					<!--<texture colordiffuse="button_focus">icons/logo.png</texture>-->
 				</control>
 				<control type="image">
 					<left>40</left>
@@ -1073,7 +1073,7 @@
 					<aspectratio>keep</aspectratio>
 					<width>192</width>
 					<height>36</height>
-					<texture>icons/logo-text.png</texture>
+					<!--<texture>icons/logo-text.png</texture>-->
 				</control>
 			</control>
 		</control>
